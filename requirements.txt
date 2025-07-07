@@ -1,0 +1,9 @@
+chromadb
+ollama-client
+flask
+flask-cors
+pdfplumber
+openai
+requests
+python-docx
+python-pptx
